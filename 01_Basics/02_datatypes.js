@@ -20,3 +20,7 @@ Datatypes::
 
 console.log(typeof undefined); //its type is undefined
 console.log(typeof null); //its type is object
+
+
+///end of file
+
